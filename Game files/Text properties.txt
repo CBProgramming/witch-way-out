@@ -1,0 +1,10 @@
+Copperplate Gothic
+
+Size 44
+
+Hue 42
+Sat 230
+Lum 114
+Red 225
+Green 237
+Blue 5
